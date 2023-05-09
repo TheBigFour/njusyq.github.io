@@ -12,5 +12,5 @@ I'm a fourth year undergraduate student from [School of Artificial Intelligence]
 
 My research interest includes Evolutionary Computing and Machine Learning.
 
-My email: [Email](191300047@smail.nju.edu.cn)
-My github: [Github](https://github.com/thebigfour) 
+My email: 191300047@smail.nju.edu.cn
+My github: https://github.com/TheBigFour
