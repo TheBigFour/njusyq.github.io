@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate student from [School of Artificial Intelligence](https://ai.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). My research interest includes Evolutionary Computing and Machine Learning.
+I'm a fourth year undergraduate student from [School of Artificial Intelligence](https://ai.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
 
-[Email](191300047@smail.nju.edu.cn) / [Github](https://github.com/thebigfour) 
+My research interest includes Evolutionary Computing and Machine Learning.
+
+My email: [Email](191300047@smail.nju.edu.cn)
+My github: [Github](https://github.com/thebigfour) 
